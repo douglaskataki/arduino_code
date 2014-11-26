@@ -2,8 +2,8 @@
 #define SIZE 20 //Size of the buffer
 
 #include <AP_Math_freeimu.h>
-//#include <Filter.h>    // Filter library
-//#include <Butter.h>    // Butterworth filter
+#include <Filter.h>    // Filter library
+#include <Butter.h>    // Butterworth filter
 
 #include <I2Cdev.h>
 #include <MPU60X0.h>
