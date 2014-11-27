@@ -5,4 +5,4 @@ This is the arduino code (it binary sketch has 33.132 bytes when compiled). Firs
 
 http://arduino.cc/en/Guide/Libraries
 
-Link to the FreeIMU library:http://www.varesano.net/files/FreeIMU-20121122_1126.zip
+Link to the FreeIMU library: https://github.com/mjs513/FreeIMU-Updates
