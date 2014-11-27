@@ -1,12 +1,8 @@
 arduino_code
 ============
 
-So, in order to use this code you need to follow the next instructions
-
-http://www.varesano.net/files/FreeIMU-20121122_1126.zip
-
-Next, put it inside the arduino library dir or in your sketchbook dir, or see here:
+This is the arduino code (it binary sketch has 33.132 bytes when compiled). First you need the FreeIMU library and then follow the instructions at the site bellow:
 
 http://arduino.cc/en/Guide/Libraries
 
-
+Link to the FreeIMU library:http://www.varesano.net/files/FreeIMU-20121122_1126.zip
