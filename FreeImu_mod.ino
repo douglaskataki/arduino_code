@@ -24,7 +24,7 @@ int k_index = 3;
 
 float q[4]={0,0,0,0};
 float val[12];
-int burst=122;
+int burst=50;
 char cmd;
 
 // Set the FreeIMU object
