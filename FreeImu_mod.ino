@@ -1,5 +1,4 @@
 #define BAUDRATE 57600 //Define the BaudRate Here.
-#define SIZE 20 //Size of the buffer
 
 #include <AP_Math_freeimu.h>
 #include <Filter.h>    // Filter library
@@ -99,4 +98,3 @@ void loop(){
     }
   }
 }
-
